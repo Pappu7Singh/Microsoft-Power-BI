@@ -1,0 +1,9 @@
+## Sales Analysis Dashboard
+
+This Power BI report provides a comprehensive view of sales performance through four interactive report pages: **Sales Analysis**, **Product Details**, **TreeMap**, and **Sales Trend**.
+
+The dashboard tracks key business metrics including **Total Sales, Profit, Profit Margin, Product Count, and Salesperson Performance**. Users can filter results by **Region** and **Year** to analyze performance across different markets and time periods.
+
+The report explores sales data from multiple perspectives, including product-wise sales distribution, category-level performance, profitability analysis, and subcategory contributions through treemap visualizations. A detailed product view enables users to examine product sales, quantities, profit, and margins at a granular level.
+
+Additionally, the Sales Trend page highlights sales patterns over time and compares regional performance, helping identify growth opportunities and business trends. Overall, this dashboard is designed to support data-driven decision-making by providing actionable insights into product performance, profitability, regional sales, and historical sales trends.
