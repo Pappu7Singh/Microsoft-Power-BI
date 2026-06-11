@@ -1,0 +1,7 @@
+## Airline Passenger Satisfaction Analysis Dashboard
+
+This Power BI dashboard analyzes airline passenger satisfaction by examining customer demographics, travel characteristics, service quality, and operational performance. The report is structured across four interactive pages—**Home**, **Passengers**, **Key Metrics**, and **Overview**—to provide a complete view of the factors influencing passenger experience.
+
+The dashboard explores satisfaction levels across different passenger segments, including **Customer Type**, **Travel Class**, **Type of Travel**, and **Age Groups**. It also evaluates service and operational indicators such as departure and arrival performance, helping identify areas that contribute to positive or negative customer experiences.
+
+Through a combination of KPI summaries and detailed analytical views, users can uncover trends in passenger satisfaction, compare customer segments, and understand the key drivers behind customer feedback. Overall, the report serves as a decision-support tool for improving service quality, enhancing customer experience, and increasing passenger satisfaction within the airline industry.
